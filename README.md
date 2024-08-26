@@ -18,8 +18,8 @@ You can install the required packages using the following command:
 
 # Dataset
   ## Repository name: Indian Spices Image Dataset
-  ## Data identification number: `10.17632/vg77y9rtjb.1`
-  ## Direct URL to data  : `https://data.mendeley.com/datasets/vg77y9rtjb/1`
+  ## Data identification number: `10.17632/vg77y9rtjb.2`
+  ## Direct URL to data  : `https://data.mendeley.com/datasets/vg77y9rtjb/2`
 
 # Model Architecture
 The project leverages the following pre-trained models for feature extraction:
