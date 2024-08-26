@@ -14,12 +14,12 @@ To run this project, you need the following dependencies:
   scikit-learn
 
 You can install the required packages using the following command:
-     pip install tensorflow numpy matplotlib seaborn scikit-learn
+     'pip install tensorflow numpy matplotlib seaborn scikit-learn'
 
 # Dataset
-  Repository name: Indian Spices Image Dataset
-  Data identification number: 10.17632/vg77y9rtjb.1
-  Direct URL to data  : https://data.mendeley.com/datasets/vg77y9rtjb/1
+  ## Repository name: Indian Spices Image Dataset
+  ## Data identification number: 10.17632/vg77y9rtjb.1
+  ## Direct URL to data  : https://data.mendeley.com/datasets/vg77y9rtjb/1
 
 # Model Architecture
 The project leverages the following pre-trained models for feature extraction:
@@ -39,7 +39,7 @@ The performance of the model is evaluated using classification reports and confu
 
 # Usage
 To train and evaluate the model, execute the Python scripts provided:
-  Before Training: The script Before Tranning.py includes the setup and preparation steps before the actual model training.
-  Model Training and Evaluation: The script Indian Spices.py contains the code for training the model and evaluating its performance.
+  ## Before Training: The script Before Tranning.py includes the setup and preparation steps before the actual model training.
+  ## Model Training and Evaluation: The script Indian Spices.py contains the code for training the model and evaluating its performance.
 
 Make sure the dataset is correctly placed and the paths in the scripts are updated to match your environment.
