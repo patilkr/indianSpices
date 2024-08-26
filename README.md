@@ -39,7 +39,9 @@ The performance of the model is evaluated using classification reports and confu
 
 # Usage
 To train and evaluate the model, execute the Python scripts provided:
-  ## Before Training: The script Before Tranning.py includes the setup and preparation steps before the actual model training.
-  ## Model Training and Evaluation: The script Indian Spices.py contains the code for training the model and evaluating its performance.
+  ## Before Training: 
+  The script Before Tranning.py includes the setup and preparation steps before the actual model training.
+  ## Model Training and Evaluation: 
+  The script Indian Spices.py contains the code for training the model and evaluating its performance.
 
 Make sure the dataset is correctly placed and the paths in the scripts are updated to match your environment.
