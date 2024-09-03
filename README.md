@@ -48,7 +48,7 @@ Make sure the dataset is correctly placed and the paths in the scripts are updat
 
 
 
-#Metadata Extractor for Image Files
+# Metadata Extractor for Image Files
 
 This script is a Python-based utility for extracting metadata from image files in the current directory and exporting the information to an Excel file. The metadata extractor processes image formats such as `.png`, `.jpg`, `.jpeg`, `.tiff`, `.bmp`, and `.gif`.
 
