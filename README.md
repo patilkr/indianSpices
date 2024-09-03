@@ -48,17 +48,17 @@ Make sure the dataset is correctly placed and the paths in the scripts are updat
 
 
 
-### Metadata Extractor for Image Files
+#Metadata Extractor for Image Files
 
 This script is a Python-based utility for extracting metadata from image files in the current directory and exporting the information to an Excel file. The metadata extractor processes image formats such as `.png`, `.jpg`, `.jpeg`, `.tiff`, `.bmp`, and `.gif`.
 
-#### Features:
+## Features:
 - **Extract Metadata:** The script extracts EXIF metadata from image files, which includes information such as the camera model, exposure time, GPS data, and more.
 - **Sanitization:** The extracted metadata values are sanitized to ensure compatibility with Excel. This includes handling bytes, tuples, and other complex data types by converting them to strings.
 - **Illegal Character Removal:** Any illegal characters that might cause issues in Excel are automatically removed from the metadata.
 - **Excel Output:** The metadata is saved in an Excel file (`image_metadata.xlsx`) with each row representing an image and its associated metadata.
 
-#### Usage:
+## Usage:
 1. Place the script in the directory containing the image files you want to analyze.
 2. Ensure you have the required Python libraries installed:
    ```bash
